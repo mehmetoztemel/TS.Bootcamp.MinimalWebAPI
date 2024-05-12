@@ -1,0 +1,6 @@
+@TS.Bootcamp.MinimalWebAPI_HostAddress = http://localhost:5106
+
+GET {{TS.Bootcamp.MinimalWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
